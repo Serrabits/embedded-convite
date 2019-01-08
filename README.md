@@ -1,6 +1,8 @@
 # Embedded botão Cortecloud
 > Uma forma rápida e fácil de adicionar o botão do Cortecloud em seu site.
 
+![Botão Cortecloud](https://s3.amazonaws.com/ccprod-static-files/images/btn-cortecloud.jpg)
+
 Com o embedded é possível que seus clientes entrem no Cortecloud já vinculados a sua central, basta adicionar o botão do Cortecloud em seu site, veja como é fácil.
 
 ## 1. Informe o link do seu convite
