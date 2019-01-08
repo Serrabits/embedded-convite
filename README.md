@@ -5,7 +5,7 @@ Com o embedded é possível que seus clientes entrem no Cortecloud já vinculado
 
 ## 1. Informe o link do seu convite
 
-O link do convite está disponível no acesso do Diretor. [Acesse sua conta de diretor](https://cortecloud.com.br/)
+O link do convite está disponível no acesso do Diretor. [Acesse sua conta de diretor](https://cortecloud.com.br/).
 
 ## 2. Customize seu botão
 
