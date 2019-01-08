@@ -11,7 +11,7 @@ O link do convite está disponível no acesso do Diretor. [Acesse sua conta de d
 
 Nossa equipe de design disponibilizou uma série de modelos do embedded para facilitar a implementação.
 
-Veja os modelos disponíveis [Acesse sua conta de diretor](https://cortecloud.com.br/embedded.html) e estilize como desejar.
+[Veja os modelos disponíveis](https://cortecloud.com.br/embedded.html) ou [faça o download do botão HTML e CSS](https://github.com/Serrabits/embedded-convite/archive/master.zip) e estilize como desejar.
 
 ## 3. Implemente o código em sua página
 
